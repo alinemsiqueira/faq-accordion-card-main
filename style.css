@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  margin: auto;
+  padding: 15px;
+  align-self: center;
+  background-color: white;
+  border-radius: 10px;
+  width: 80%;
+  height: 50%;
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
+#woman {
+  justify-content: right;
+  width: 80%;
+  height: 80%;
+}
